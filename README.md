@@ -4,7 +4,7 @@ Backend:
 precisa criar o venv e puxar todos as bibliotecas com os seguintes comandos:
 
 ``
-  py -m venv venv
+  py -m venv venv <br>
   venv\Scripts\activate
   pip install -r requirements.txt
   py manage.py runserver
