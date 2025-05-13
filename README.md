@@ -35,3 +35,10 @@ npm install
 ``
   npm run dev
 ``
+
+
+
+Nome do Usuario Adminstrativo;
+
+username: admin
+senha: admin123
